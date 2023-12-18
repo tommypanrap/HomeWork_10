@@ -1,4 +1,4 @@
-package hw1;
+package hw3;
 import java.util.Scanner;
 
 public class HW3_2 {
@@ -21,6 +21,8 @@ public class HW3_2 {
 			 
 		}while( i != answer);
 		System.out.println("答對了!"+"答案就是"+i);
+		
+		sc.close();
 	}
 
 }

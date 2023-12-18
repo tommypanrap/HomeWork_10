@@ -1,4 +1,4 @@
-package hw1;
+package hw3;
 import java.util.Scanner;
 
 public class HW3_3 {
@@ -29,6 +29,8 @@ public class HW3_3 {
 			}
 		}
 		System.out.println("總共有"+countLayout+"數字可選");
+		
+		sc.close();
 	}
 
 }

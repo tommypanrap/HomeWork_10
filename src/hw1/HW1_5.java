@@ -3,7 +3,7 @@ package hw1;
 public class HW1_5 {
 
 	public static void main(String[] args) {
-		double benefit = 0.02;
+//		double benefit = 0.02;
 		int year = 10;
 		double temp = 1;
 		for(int x = 1 ; x <= year ; x++) {
